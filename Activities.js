@@ -19,7 +19,7 @@ gsap.to(".football", {
         start: "80% bottom",
         end: "30% bottom",
         scrub: 2,
-        markers: true,
+        markers: false,
         toggleActions: "play none none reverse",
     }
 })
@@ -31,7 +31,7 @@ gsap.to(".f-info", {
         start: "80% bottom",
         end: "30% bottom",
         scrub: 2,
-        markers: true,
+        markers: false,
         toggleActions: "play none none reverse",
     }
 })
@@ -43,7 +43,7 @@ gsap.to(".f-info", {
         start: "80% bottom",
         end: "30% bottom",
         scrub: 2,
-        markers: true,
+        markers: false,
         toggleActions: "play none none reverse",
     }
 })
